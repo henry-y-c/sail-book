@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Dependencies
+node_modules/
+
+# Yarn/NPM Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# Webpack Generated
+static/js/
